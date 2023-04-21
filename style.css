@@ -51,3 +51,13 @@ body{
 #job{
     color:rgb(31, 180, 255);
 }
+button{
+    border: none;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 5px;
+    font-size: large;
+}
+button:hover{
+    background-color: antiquewhite;
+}
